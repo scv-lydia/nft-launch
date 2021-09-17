@@ -1,0 +1,16 @@
+{
+  "description": "NFT Gift for Z Launch Party",
+  "external_url": "https://testnets.opensea.io/collection/untitled-collection-2077577",
+  "image": "https://raw.githubusercontent.com/scv-lydia/nft-launch/main/olre2.jpg",
+  "name": "OlRe",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "12345"
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Happy"
+    }
+  ]
+}
